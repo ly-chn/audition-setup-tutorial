@@ -210,3 +210,5 @@
 **Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-23 · **License:** 基于 MIT 许可证共享
 
 *audition-setup-tutorial*
+
+<!-- updated 2026-10-23 -->
